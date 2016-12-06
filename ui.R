@@ -1,6 +1,6 @@
 library(shiny)
 
-tags$h1(Playground)
+tags$h1("Playground")
 
 shinyUI(pageWithSidebar(
   
